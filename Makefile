@@ -1,6 +1,6 @@
 all: build/license.pdf build/license.html
 
-build/license.md: license.md | build
+build/license.md: terms.md | build
 	sed "s/Development Draft/Development Draft\n\nGit HEAD \`$(shell git rev-parse HEAD)\`\n\nBuilt $(shell date)/" $< > $@
 
 build/license.pdf: build/license.md | build
