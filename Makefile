@@ -1,9 +1,12 @@
 all: build/license.pdf build/license.html
 
-build/license.pdf: license.md | build
+build/license.md: license.md | build
+	sed "s/Development Draft/Development Draft\n\nGit HEAD \`$(shell git rev-parse HEAD)\`\n\nBuilt $(shell date)/" $< > $@
+
+build/license.pdf: build/license.md | build
 	pandoc -V documentclass=article -V papersize=letter -V fontsize=12pt --pdf-engine=xelatex -o $@ $<
 
-build/license.html: license.md | build
+build/license.html: build/license.md | build
 	pandoc -o $@ $<
 
 build:
