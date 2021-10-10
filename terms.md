@@ -22,7 +22,7 @@ We license you under copyright law to make and share copies of this version of S
 
 1.  Don't remove any of our notes about about copyrights, trademarks, or license terms.  Wherever our terms go, those notes must go.
 
-2.  We do not give you any license under trademark to use our marks or logos.  If you make changes, other than just filling out forms as directed, also make changes that clarify your version is no longer the same as SaaS Passport.  Replace the SaaS Passport branding with a note that your version is "based on SaaS Passport", "includes terms from SaaS Passport", or similar, and adapt our notes about copyrights, trademarks, and license terms accordingly.
+2.  If you make changes, other than just filling out forms as directed, also make changes that clarify your version is no longer the same as SaaS Passport.  Replace the SaaS Passport branding with a note that your version is "based on SaaS Passport", "includes terms from SaaS Passport", or similar, and adapt our notes about copyrights, trademarks, and license terms accordingly.  We do not give you any license under trademark to use our marks or logos.
 
 3.  Don't republish our terms, especially on the open Internet.  Link to them on saaspassport.com instead.
 
