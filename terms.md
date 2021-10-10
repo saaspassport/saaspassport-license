@@ -24,7 +24,7 @@ We license you under copyright law to make and share copies of this version of S
 
 2.  If you make changes, other than just filling out forms as instructed, clarify that your version is no longer the same as SaaS Passport.  Replace the SaaS Passport branding with a note that your version is "based on SaaS Passport", "includes terms from SaaS Passport", or similar, and adapt our notes about copyrights, trademarks, and license terms accordingly.  We do not give you any license under trademark to use our marks or logos.
 
-3.  Don't republish our terms, especially on the open Internet.  Link to them on saaspassport.com instead.
+3.  Don't republish our terms or forms, especially on the open Internet.  Link to them on saaspassport.com instead.
 
 ## Fair Use
 
