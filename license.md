@@ -12,7 +12,7 @@ In order to get this license, you have to agree to its rules with Artless Device
 
 ## Fees
 
-***If you use this version of SaaS Passport to close a deal with a customer, pay us our current fee via <https://saaspassport.com/pay> within two business days.  Pay the fee for each deal you close, whether you use our terms as published, use our terms with changes, or copy significant chunks of our terms into your own.***
+***If you use this version of SaaS Passport to close a deal, pay us our current fee via <https://saaspassport.com/pay> within two business days.  Pay the fee for each deal you close, whether you use our terms as published, use our terms with changes, or copy significant chunks of our terms into your own.***
 
 This isn't a donation.  It isn't a tip.  You owe us the money.  We don't restrict access to SaaS Passport, burden it with digital locks, or surveil our users.  We require you to agree to these rules, then expect you to keep your end of the bargain.
 
