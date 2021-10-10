@@ -36,7 +36,9 @@ We expect you to rely on this license.  We won't revoke it.  However, we may pub
 
 ## Side Deals
 
-If your use of this version of SaaS Passport is covered by another, separate deal, then that deal, not this license, governs your use.  For example, if your company has a deal with us for use of SaaS Passport with customers for a flat fee per month, you don't have to pay our published fee for those customers under this license, as well.
+If your use of this version of SaaS Passport is covered by another, separate deal, then that deal, not this license, governs your use.
+
+For example, if your company has a deal with us for use of SaaS Passport with customers for a flat fee per month, you don't have to pay our published fee for those customers under this license, as well.
 
 ## California
 
