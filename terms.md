@@ -42,7 +42,7 @@ For example, if your company has a deal with us for use of SaaS Passport with cu
 
 ## California
 
-If we end up suing each out about anything related to this version of SaaS Passport or this license, we agree to take it to federal or state court in [Oakland, California](https://en.wikipedia.org/wiki/Oakland,_California).  California law will govern.  The loser will pay the winner's attorney's fees and costs.
+If we end up suing each out about anything related to this version of SaaS Passport or this license, we will take it to federal or state court in [Oakland, California](https://en.wikipedia.org/wiki/Oakland,_California).  California law will govern.  The loser will pay the winner's attorney's fees and costs.
 
 We know you're probably not in Oakland.  But we can't know what this license means without pinning down what law governs.  There are a lot of potential SaaS Passport users, everywhere, and just one Artless Devices.  If users could sue us in a thousand different places, we could go bankrupt just buying plane tickets.
 
