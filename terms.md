@@ -8,7 +8,7 @@ This license gives you legal permission to use, share, and make changes to this 
 
 ## Agreement
 
-In order to get this license, you have to agree to its rules with Artless Devices LLC, the company behind SaaS Passport.  Those rules are both obligations under our agreement and conditions to your license.
+In order to receive this license, you have to agree to its rules with Artless Devices LLC, the company behind SaaS Passport.  Those rules are both obligations under our agreement and conditions to your license.
 
 ## Fees
 
