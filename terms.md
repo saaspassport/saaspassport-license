@@ -36,8 +36,6 @@ We expect you to rely on this license.  We won't revoke it.  However, we may pub
 
 If we end up suing each out about anything related to this version of SaaS Passport or this license, we will take it to federal or state court in [Oakland, California](https://en.wikipedia.org/wiki/Oakland,_California).  California law will govern.  The loser will pay the winner's attorney's fees and costs.
 
-We know you're probably not in Oakland.  But we can't know what this license means without pinning down what law governs.  There are a lot of potential SaaS Passport users, everywhere, and just one Artless Devices.  If users could sue us in a thousand different places, we could go bankrupt just buying plane tickets.
-
 ## Liability
 
 ***As far as the law allows, SaaS Passport comes as is, without any warranty.  There is just one exception: we guarantee that we have the copyrights needed to license SaaS Passport.  Otherwise, as far as the law allows, neither Artless Devices nor any contributor to SaaS Passport will be liable for any damages related to SaaS Passport or this license, under any kind of legal claim.***
