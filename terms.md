@@ -18,9 +18,9 @@ In order to receive this license, you have to agree to its rules with Artless De
 
 We license you under copyright law to make and share copies of this version of SaaS Passport, and to make changes to and other works based on it, under these rules:
 
-1.  Don't remove any of our notes about about copyrights, trademarks, or license terms.  Wherever our terms go, those notes must go.
+1.  Don't remove any of our notes about license terms.  Wherever our terms go, those notes must go.
 
-2.  If you make changes, other than just filling out forms as instructed, clarify that your version is no longer the same as SaaS Passport.  Replace the SaaS Passport branding with a note that your version is "based on SaaS Passport", "includes terms from SaaS Passport", or similar, and adapt our notes about copyrights, trademarks, and license terms accordingly.  We do not give you any license under trademark to use our marks or logos.
+2.  If you make changes, other than just filling out forms as instructed, clarify that your version is no longer the same as SaaS Passport.  Replace the SaaS Passport branding with a note that your version is "based on SaaS Passport", "includes terms from SaaS Passport", or similar, and adapt our notes about license terms accordingly.  We do not give you any license under trademark to use our marks or logos.
 
 3.  Don't republish our terms or forms.  Link to them on saaspassport.com instead.
 
