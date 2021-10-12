@@ -32,12 +32,6 @@ This license doesn't limit any rights you may have under copyright "fair use" or
 
 We expect you to rely on this license.  We won't revoke it.  However, we may publish new versions of SaaS Passport under new and different terms.
 
-## Side Deals
-
-If your use of this version of SaaS Passport is covered by another, separate deal, then that deal, not this license, governs your use.
-
-For example, if your company has a deal with us for use of SaaS Passport with customers for a flat fee per month, you don't have to pay our published fee for those customers under this license, as well.
-
 ## California
 
 If we end up suing each out about anything related to this version of SaaS Passport or this license, we will take it to federal or state court in [Oakland, California](https://en.wikipedia.org/wiki/Oakland,_California).  California law will govern.  The loser will pay the winner's attorney's fees and costs.
